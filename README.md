@@ -2,7 +2,7 @@
 
 <p align="center">
 
-<img src="ReadMe-Photos/Logo.jpg">
+<img src="ReadMe-Photos/Logo.png">
 
 </p>
 
