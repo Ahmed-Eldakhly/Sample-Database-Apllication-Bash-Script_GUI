@@ -143,7 +143,7 @@ Ask the user about specific column and specific value to search for, then update
 # 
 
 # Sample of codes.
-Sample for HTML files.
+Sample for Bash shell script files.
 ```
 	#List all tables in current Database
 	listTables
